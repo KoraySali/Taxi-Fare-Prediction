@@ -16,6 +16,8 @@ Here the creation of multiple features will be extrapolated from the raw data, t
 
 Error Analysis will also be performed to corroborate the validity of the data with no extreme outliers or performance reducing instances.
 
+![](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/lmplot%20for%20night%20time%20trip%20fare.png?raw=true)
+
 # Evaluation and Deployment
 
 A final score of ~1.58841 RMSE was achieved as the lowest RMSE from the Kaggle submissions. This score meets the accuracy objective that the project was heavily reliant on. During the selection of the models, two of them stood out, these were Random Forest and MLP Regressor algorithms. To find out which model would be best to implement a number of Yellowbrick regressor visualisations were created. It was made apparent that the R-squared between the predicted values of the train and test data was closer, when ran through a MLP regressor whereas the Random Forest Regressor had larger variance. It was also observed that the CV score and Training Score was at its best with 9 features implemented.
