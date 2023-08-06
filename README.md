@@ -8,6 +8,8 @@ The stand-out objective of the project is to produce a predictive model that can
 
 Throughout this project, charts have been created and other data analysis tools used, to better visualise the correlation within the raw data, to help understand how the model can be trained to have a higher accuracy when predicting the label. The importance of finding these correlations in data mean that redundant data can be ignored, to a certain extent, while more specific helpful information can be picked up and used.
 
+![](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/Heatmap%20to%20see%20correlation%20between%20features.png?raw=true)
+
 # Data Preparation and Modelling
 
 In terms of preprocessing this project was started by cleaning the dataset before any changes could be made; in order to ensure the data being worked with is as accurate and viable as possible. To make certain that the datatypes of the attributes remain the same throughout, the conversion of all values to floats have be made. In addition, the dataset now also has no null values.
