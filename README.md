@@ -20,7 +20,7 @@ Here the creation of multiple features will be extrapolated from the raw data, t
 
 Error Analysis will also be performed to corroborate the validity of the data with no extreme outliers or performance reducing instances.
 
-![](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/lmplot%20for%20night%20time%20trip%20fare.png?raw=true)
+![](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/Updated%20plot%20for%20night%20trips.png?raw=true)
 
 # Evaluation and Deployment
 
