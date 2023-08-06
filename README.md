@@ -34,6 +34,8 @@ During the data understanding a few question were left unanswered due to the vag
 
 It is now seen that the correlation between fare and the features is greater than the raw features of the dataset. It was made apparent that the addition of night trips was important and well correlated while other features showed less correlation highlighting which attributes may affect the model for better or worse.
 
+![](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/Feature%20dropping%20curve%20for%20RandomForestRegressor.png?raw=true)
+
 # Feature Engineering for the Hold out test
 **Reassigning the attributes to hold out for the test.csv file**
 
