@@ -46,3 +46,5 @@ It is now seen that the correlation between fare and the features is greater tha
 **Reassigning the attributes to hold out for the test.csv file**
 
 It is important to make sure both the train dataset and test dataset match up, including all the same data types and attribute names, to prevent any mismatch when the predictive model tries to perform on the test data.
+
+![](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/visualiser%20for%20MLPRegressor.png?raw=true)
