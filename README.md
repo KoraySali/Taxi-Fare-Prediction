@@ -1,4 +1,4 @@
-# Taxi-Fare-Prediction
+# Taxi Fare Prediction Regression
 
 # Business Understanding
 
