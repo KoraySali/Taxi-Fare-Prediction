@@ -35,6 +35,6 @@ During the data understanding a few question were left unanswered due to the vag
 It is now seen that the correlation between fare and the features is greater than the raw features of the dataset. It was made apparent that the addition of night trips was important and well correlated while other features showed less correlation highlighting which attributes may affect the model for better or worse.
 
 # Feature Engineering for the Hold out test
-## Reassigning the attributes to hold out for the test.csv file
+**Reassigning the attributes to hold out for the test.csv file**
 
 It is important to make sure both the train dataset and test dataset match up, including all the same data types and attribute names, to prevent any mismatch when the predictive model tries to perform on the test data.
