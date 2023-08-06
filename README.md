@@ -4,6 +4,8 @@
 
 The stand-out objective of the project is to produce a predictive model that can accurately return the taxi fares for all possible journeys and new trips in the local Bournemouth and Dorset region. The requirement for the model is its accuracy in predicting a fare as close to the actual price as possible. The need for this precision is indisputable as it could deter possible customers if the algorithm overcharges customers for journeys. Currently, the data provided is raw and little correlation can be observed between the attributes, hence the need for a model with useable features to provide a level of intelligence to the predictive algorithm. 10,000 journeys were observed within two weeks, shown in the dataset, highlighting the necessity for an automated system; as it would be near impossible to predict new taxi journeys manually. This project will be completed in accordance with the CRISP-DM methodology.
 
+![](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/detailed_night_trips_plot.png?raw=true)
+
 # Data Understanding
 
 Throughout this project, charts have been created and other data analysis tools used, to better visualise the correlation within the raw data, to help understand how the model can be trained to have a higher accuracy when predicting the label. The importance of finding these correlations in data mean that redundant data can be ignored, to a certain extent, while more specific helpful information can be picked up and used.
